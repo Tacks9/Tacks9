@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Tacks's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacks9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacks9)
